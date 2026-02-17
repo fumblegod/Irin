@@ -774,7 +774,7 @@ export default function App() {
                 <div className="letter-body">
                   <p>
                     Hello my love, I made this for you as valentines gift, I know its a little late but I wanted to make something special for you,
-                    and I'm no good with my hands the best I can do write code and make something special for you, I hope you like it.
+                    and I'm no good with my hands the best I can do is write code and make something special for you, I hope you like it.
                   </p>
                   <p>
                     I love you very very much, you're the best thing thats ever happened to me,
