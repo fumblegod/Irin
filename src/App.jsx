@@ -117,6 +117,183 @@ function Starfield() {
   )
 }
 
+/* ─────────────────────── Floating Flowers ─────────────── */
+
+function FlowerBouquet() {
+  return (
+    <div className="bouquet-wrap">
+      <svg
+        className="bouquet-svg"
+        viewBox="0 0 600 750"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        {/* ── Stems converging to bottom centre ── */}
+        {[
+          { x1: 300, y1: 550, x2: 160, y2: 240, curve: -60 },
+          { x1: 300, y1: 550, x2: 220, y2: 200, curve: -30 },
+          { x1: 300, y1: 550, x2: 300, y2: 170, curve: 0 },
+          { x1: 300, y1: 550, x2: 380, y2: 200, curve: 30 },
+          { x1: 300, y1: 550, x2: 440, y2: 240, curve: 60 },
+          { x1: 300, y1: 550, x2: 130, y2: 310, curve: -80 },
+          { x1: 300, y1: 550, x2: 470, y2: 310, curve: 80 },
+          { x1: 300, y1: 550, x2: 250, y2: 280, curve: -15 },
+          { x1: 300, y1: 550, x2: 350, y2: 280, curve: 15 },
+        ].map((s, i) => (
+          <path
+            key={`stem-${i}`}
+            d={`M${s.x1},${s.y1} Q${s.x1 + s.curve},${(s.y1 + s.y2) / 2} ${s.x2},${s.y2}`}
+            stroke="#2d6a4f"
+            strokeWidth="3"
+            fill="none"
+            opacity="0.55"
+          />
+        ))}
+
+        {/* ── Filler leaves along stems ── */}
+        {[
+          { cx: 200, cy: 400, rx: 22, ry: 8, rot: -50 },
+          { cx: 240, cy: 360, rx: 18, ry: 7, rot: -35 },
+          { cx: 400, cy: 400, rx: 22, ry: 8, rot: 50 },
+          { cx: 360, cy: 360, rx: 18, ry: 7, rot: 35 },
+          { cx: 170, cy: 350, rx: 20, ry: 7, rot: -60 },
+          { cx: 430, cy: 350, rx: 20, ry: 7, rot: 60 },
+          { cx: 260, cy: 320, rx: 16, ry: 6, rot: -20 },
+          { cx: 340, cy: 320, rx: 16, ry: 6, rot: 20 },
+          { cx: 280, cy: 440, rx: 14, ry: 5, rot: -10 },
+          { cx: 320, cy: 440, rx: 14, ry: 5, rot: 10 },
+        ].map((l, i) => (
+          <ellipse
+            key={`leaf-${i}`}
+            cx={l.cx} cy={l.cy} rx={l.rx} ry={l.ry}
+            fill={i % 2 === 0 ? '#40916c' : '#52b788'}
+            opacity="0.5"
+            transform={`rotate(${l.rot} ${l.cx} ${l.cy})`}
+          />
+        ))}
+
+        {/* ── Baby's breath filler (small white dots) ── */}
+        {[
+          [180, 270], [210, 250], [195, 230], [390, 270], [420, 250], [405, 230],
+          [250, 210], [350, 210], [270, 190], [330, 190], [300, 150],
+          [150, 300], [450, 300], [230, 240], [370, 240],
+        ].map(([cx, cy], i) => (
+          <circle key={`breath-${i}`} cx={cx} cy={cy} r={3.5} fill="#fff" opacity="0.35" />
+        ))}
+
+        {/* ── Roses (centre & prominent spots) ── */}
+        {[
+          { cx: 300, cy: 180, s: 55 },
+          { cx: 230, cy: 220, s: 48 },
+          { cx: 370, cy: 220, s: 48 },
+          { cx: 300, cy: 280, s: 42 },
+        ].map((r, i) => (
+          <g key={`rose-${i}`} transform={`translate(${r.cx - r.s / 2}, ${r.cy - r.s / 2})`}>
+            <svg width={r.s} height={r.s} viewBox="0 0 100 100">
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#e63946" opacity="0.85" transform="rotate(0 50 50)" />
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#c1121f" opacity="0.75" transform="rotate(60 50 50)" />
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#e63946" opacity="0.8" transform="rotate(120 50 50)" />
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#d00000" opacity="0.7" transform="rotate(180 50 50)" />
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#e63946" opacity="0.75" transform="rotate(240 50 50)" />
+              <ellipse cx="50" cy="35" rx="18" ry="24" fill="#c1121f" opacity="0.8" transform="rotate(300 50 50)" />
+              <circle cx="50" cy="50" r="10" fill="#9d0208" opacity="0.9" />
+              <circle cx="50" cy="50" r="5" fill="#6a040f" opacity="0.8" />
+            </svg>
+          </g>
+        ))}
+
+        {/* ── Tulips (sides of bouquet) ── */}
+        {[
+          { cx: 165, cy: 260, s: 44, rot: -20 },
+          { cx: 435, cy: 260, s: 44, rot: 20 },
+          { cx: 200, cy: 210, s: 40, rot: -15 },
+          { cx: 400, cy: 210, s: 40, rot: 15 },
+        ].map((t, i) => (
+          <g key={`tulip-${i}`} transform={`translate(${t.cx - t.s / 2}, ${t.cy - t.s / 2}) rotate(${t.rot} ${t.s / 2} ${t.s / 2})`}>
+            <svg width={t.s} height={t.s} viewBox="0 0 100 100">
+              <ellipse cx="50" cy="35" rx="14" ry="28" fill="#f72585" opacity="0.85" />
+              <ellipse cx="38" cy="38" rx="12" ry="26" fill="#b5179e" opacity="0.75" transform="rotate(-15 38 38)" />
+              <ellipse cx="62" cy="38" rx="12" ry="26" fill="#f72585" opacity="0.75" transform="rotate(15 62 38)" />
+              <ellipse cx="50" cy="30" rx="6" ry="12" fill="#ff85b3" opacity="0.5" />
+            </svg>
+          </g>
+        ))}
+
+        {/* ── Chrysanthemums (filling gaps) ── */}
+        {[
+          { cx: 250, cy: 170, s: 46 },
+          { cx: 350, cy: 170, s: 46 },
+          { cx: 140, cy: 320, s: 42, rot: -10 },
+          { cx: 460, cy: 320, s: 42, rot: 10 },
+        ].map((c, i) => {
+          const petalCount = 18
+          const colors = ['#ff9e00', '#ffb700', '#ffd000', '#ffea00']
+          return (
+            <g key={`chrys-${i}`} transform={`translate(${c.cx - c.s / 2}, ${c.cy - c.s / 2})${c.rot ? ` rotate(${c.rot} ${c.s / 2} ${c.s / 2})` : ''}`}>
+              <svg width={c.s} height={c.s} viewBox="0 0 100 100">
+                {Array.from({ length: petalCount }, (_, j) => (
+                  <ellipse
+                    key={j}
+                    cx="50" cy="28" rx="5" ry="18"
+                    fill={colors[j % colors.length]}
+                    opacity={0.75}
+                    transform={`rotate(${(360 / petalCount) * j} 50 50)`}
+                  />
+                ))}
+                <circle cx="50" cy="50" r="10" fill="#e85d04" opacity="0.9" />
+                <circle cx="50" cy="50" r="5" fill="#dc2f02" opacity="0.7" />
+              </svg>
+            </g>
+          )
+        })}
+
+        {/* ── Ribbon / wrap ── */}
+        <path
+          d="M265,520 Q300,500 335,520"
+          stroke="var(--accent, #e63946)"
+          strokeWidth="6"
+          fill="none"
+          opacity="0.6"
+          strokeLinecap="round"
+        />
+        <path
+          d="M260,530 Q300,545 340,530"
+          stroke="var(--accent, #e63946)"
+          strokeWidth="4"
+          fill="none"
+          opacity="0.45"
+          strokeLinecap="round"
+        />
+        {/* Ribbon tails */}
+        <path
+          d="M265,530 Q250,570 240,600"
+          stroke="var(--accent, #e63946)"
+          strokeWidth="4"
+          fill="none"
+          opacity="0.4"
+          strokeLinecap="round"
+        />
+        <path
+          d="M335,530 Q350,570 360,600"
+          stroke="var(--accent, #e63946)"
+          strokeWidth="4"
+          fill="none"
+          opacity="0.4"
+          strokeLinecap="round"
+        />
+
+        {/* ── Wrapping paper (cone shape) ── */}
+        <path
+          d="M230,490 L300,700 L370,490"
+          fill="rgba(var(--accent-rgb, 230,57,70), 0.08)"
+          stroke="rgba(var(--accent-rgb, 230,57,70), 0.15)"
+          strokeWidth="2"
+          strokeLinejoin="round"
+        />
+      </svg>
+    </div>
+  )
+}
+
 /* ─────────────────────── Petal Rain ────────────────────── */
 
 const PETAL_COLORS = [
@@ -729,6 +906,7 @@ export default function App() {
             <span>Irin</span>
           </div>
           <div className="divider" />
+          <div className="tabs-wrapper">
           <nav className="tabs no-scroll">
             {songs.map((s, i) => (
               <button
@@ -748,12 +926,14 @@ export default function App() {
               {letterMode && <span className="tab-dot" />}
             </button>
           </nav>
+          </div>
         </div>
       </header>
 
       {/* ── Centre Stage ── */}
       {letterMode ? (
         <main className="stage letter-stage">
+          <FlowerBouquet />
           <div className="letter-container">
             {!letterOpen ? (
               <div className="envelope" onClick={() => setLetterOpen(true)}>
