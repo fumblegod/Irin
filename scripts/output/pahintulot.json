@@ -1,0 +1,1274 @@
+{
+  "id": "pahintulot",
+  "language": "tl",
+  "words": [
+    {
+      "word": "Carolyn",
+      "start": 16.46,
+      "end": 17.86
+    },
+    {
+      "word": "Ikaw",
+      "start": 20.0,
+      "end": 21.4
+    },
+    {
+      "word": "Ang",
+      "start": 55.1,
+      "end": 56.5
+    },
+    {
+      "word": "amas",
+      "start": 56.5,
+      "end": 57.9
+    },
+    {
+      "word": "lang",
+      "start": 57.9,
+      "end": 58.72
+    },
+    {
+      "word": "ba",
+      "start": 58.72,
+      "end": 59.64
+    },
+    {
+      "word": "ng",
+      "start": 59.64,
+      "end": 60.8
+    },
+    {
+      "word": "bayingan",
+      "start": 60.8,
+      "end": 63.26
+    },
+    {
+      "word": "ng",
+      "start": 63.26,
+      "end": 64.0
+    },
+    {
+      "word": "dalaw",
+      "start": 64.0,
+      "end": 66.32
+    },
+    {
+      "word": "Poyasa,",
+      "start": 66.32,
+      "end": 68.98
+    },
+    {
+      "word": "pirapirasong",
+      "start": 70.32,
+      "end": 74.04
+    },
+    {
+      "word": "mga",
+      "start": 74.04,
+      "end": 76.08
+    },
+    {
+      "word": "buktong",
+      "start": 76.08,
+      "end": 76.78
+    },
+    {
+      "word": "Nagtata",
+      "start": 78.34,
+      "end": 79.74
+    },
+    {
+      "word": "no",
+      "start": 79.74,
+      "end": 80.24
+    },
+    {
+      "word": ",ogaordinate",
+      "start": 80.24,
+      "end": 80.94
+    },
+    {
+      "word": "kaki",
+      "start": 85.22,
+      "end": 86.62
+    },
+    {
+      "word": "pa",
+      "start": 86.62,
+      "end": 86.86
+    },
+    {
+      "word": "Baraka",
+      "start": 86.86,
+      "end": 88.6
+    },
+    {
+      "word": "Sa",
+      "start": 88.6,
+      "end": 90.38
+    },
+    {
+      "word": "ba",
+      "start": 90.38,
+      "end": 90.94
+    },
+    {
+      "word": "naseaking",
+      "start": 90.94,
+      "end": 93.54
+    },
+    {
+      "word": "na",
+      "start": 93.54,
+      "end": 94.36
+    },
+    {
+      "word": "anyang",
+      "start": 94.36,
+      "end": 95.34
+    },
+    {
+      "word": "ka",
+      "start": 95.34,
+      "end": 95.68
+    },
+    {
+      "word": "paumanding",
+      "start": 95.68,
+      "end": 97.62
+    },
+    {
+      "word": "paumanding",
+      "start": 100.14,
+      "end": 101.54
+    },
+    {
+      "word": "sa",
+      "start": 103.1,
+      "end": 104.5
+    },
+    {
+      "word": "la",
+      "start": 104.5,
+      "end": 104.82
+    },
+    {
+      "word": "sa",
+      "start": 104.82,
+      "end": 105.62
+    },
+    {
+      "word": "kasane",
+      "start": 105.62,
+      "end": 106.62
+    },
+    {
+      "word": "sakigan",
+      "start": 106.62,
+      "end": 106.76
+    },
+    {
+      "word": "Yang",
+      "start": 106.78,
+      "end": 107.28
+    },
+    {
+      "word": "linawing",
+      "start": 107.28,
+      "end": 108.68
+    },
+    {
+      "word": "Ging",
+      "start": 111.98,
+      "end": 113.38
+    },
+    {
+      "word": "Kumpahintulutang",
+      "start": 116.96,
+      "end": 118.36
+    },
+    {
+      "word": "mo",
+      "start": 118.36,
+      "end": 118.68
+    },
+    {
+      "word": "ako",
+      "start": 118.68,
+      "end": 119.9
+    },
+    {
+      "word": "Ay,",
+      "start": 124.16,
+      "end": 124.86
+    },
+    {
+      "word": "pa",
+      "start": 125.32,
+      "end": 125.94
+    },
+    {
+      "word": "Pa",
+      "start": 127.96,
+      "end": 128.66
+    },
+    {
+      "word": "'kilala",
+      "start": 128.66,
+      "end": 129.46
+    },
+    {
+      "word": "Besanasayawang",
+      "start": 130.48,
+      "end": 132.12
+    },
+    {
+      "word": "bubung",
+      "start": 132.12,
+      "end": 132.74
+    },
+    {
+      "word": "mundo",
+      "start": 132.74,
+      "end": 133.42
+    },
+    {
+      "word": "Bala",
+      "start": 152.8,
+      "end": 154.2
+    },
+    {
+      "word": "At",
+      "start": 154.2,
+      "end": 155.1
+    },
+    {
+      "word": "Za",
+      "start": 155.1,
+      "end": 155.88
+    },
+    {
+      "word": "Duck",
+      "start": 155.88,
+      "end": 156.74
+    },
+    {
+      "word": "Over",
+      "start": 164.58,
+      "end": 165.98
+    },
+    {
+      "word": "Haw",
+      "start": 165.98,
+      "end": 166.46
+    },
+    {
+      "word": "Sara",
+      "start": 166.46,
+      "end": 166.76
+    },
+    {
+      "word": "Kenneth",
+      "start": 166.76,
+      "end": 167.12
+    },
+    {
+      "word": "Valley",
+      "start": 167.12,
+      "end": 167.76
+    },
+    {
+      "word": "ng",
+      "start": 167.76,
+      "end": 169.48
+    },
+    {
+      "word": "ngatong",
+      "start": 169.48,
+      "end": 170.3
+    },
+    {
+      "word": "nan",
+      "start": 170.3,
+      "end": 170.78
+    },
+    {
+      "word": "In",
+      "start": 172.62,
+      "end": 174.02
+    },
+    {
+      "word": "bota",
+      "start": 174.02,
+      "end": 174.56
+    },
+    {
+      "word": "natpun",
+      "start": 174.56,
+      "end": 176.7
+    },
+    {
+      "word": "paano",
+      "start": 176.7,
+      "end": 178.7
+    },
+    {
+      "word": "ang",
+      "start": 178.7,
+      "end": 179.66
+    },
+    {
+      "word": "없어",
+      "start": 179.66,
+      "end": 181.94
+    },
+    {
+      "word": "Sa...",
+      "start": 193.26,
+      "end": 194.66
+    },
+    {
+      "word": "Ging...",
+      "start": 197.7,
+      "end": 199.1
+    },
+    {
+      "word": "Kumpahing",
+      "start": 199.94,
+      "end": 200.74
+    },
+    {
+      "word": "tulutan",
+      "start": 200.74,
+      "end": 201.7
+    },
+    {
+      "word": "mo",
+      "start": 201.7,
+      "end": 202.2
+    },
+    {
+      "word": "ako...",
+      "start": 202.2,
+      "end": 203.94
+    },
+    {
+      "word": "Ang",
+      "start": 207.34,
+      "end": 208.74
+    },
+    {
+      "word": "ang",
+      "start": 208.74,
+      "end": 209.32
+    },
+    {
+      "word": "ang...",
+      "start": 209.32,
+      "end": 211.4
+    },
+    {
+      "word": "Ang",
+      "start": 211.4,
+      "end": 212.16
+    },
+    {
+      "word": "ang",
+      "start": 212.16,
+      "end": 212.16
+    },
+    {
+      "word": "ang...",
+      "start": 212.16,
+      "end": 212.86
+    },
+    {
+      "word": "Ang",
+      "start": 212.86,
+      "end": 212.86
+    },
+    {
+      "word": "kinkangan",
+      "start": 212.86,
+      "end": 212.86
+    },
+    {
+      "word": "ay",
+      "start": 212.86,
+      "end": 214.1
+    },
+    {
+      "word": "iba",
+      "start": 214.1,
+      "end": 214.6
+    },
+    {
+      "word": "pa",
+      "start": 214.6,
+      "end": 214.92
+    },
+    {
+      "word": "malas",
+      "start": 214.92,
+      "end": 215.72
+    },
+    {
+      "word": "ko",
+      "start": 215.72,
+      "end": 216.06
+    },
+    {
+      "word": "sa",
+      "start": 216.06,
+      "end": 216.44
+    },
+    {
+      "word": "'yo...",
+      "start": 216.44,
+      "end": 217.14
+    },
+    {
+      "word": "Ging...",
+      "start": 253.28,
+      "end": 254.68
+    },
+    {
+      "word": "Ging...",
+      "start": 254.68,
+      "end": 255.06
+    },
+    {
+      "word": "Pinaki",
+      "start": 255.6,
+      "end": 256.3
+    },
+    {
+      "word": "kiyos",
+      "start": 256.3,
+      "end": 257.2
+    },
+    {
+      "word": "akko",
+      "start": 257.2,
+      "end": 257.84
+    },
+    {
+      "word": "sa",
+      "start": 257.84,
+      "end": 258.18
+    },
+    {
+      "word": "'yo...",
+      "start": 258.18,
+      "end": 259.86
+    },
+    {
+      "word": "Sa...",
+      "start": 267.02,
+      "end": 268.06
+    },
+    {
+      "word": "Bakai",
+      "start": 269.24,
+      "end": 270.28
+    },
+    {
+      "word": "ng",
+      "start": 270.28,
+      "end": 270.78
+    },
+    {
+      "word": "atan",
+      "start": 270.78,
+      "end": 271.3
+    },
+    {
+      "word": "ang",
+      "start": 271.3,
+      "end": 271.56
+    },
+    {
+      "word": "ibu",
+      "start": 271.56,
+      "end": 271.96
+    },
+    {
+      "word": "suku...",
+      "start": 271.96,
+      "end": 274.2
+    }
+  ],
+  "segments": [
+    {
+      "start": 16.46,
+      "end": 17.86,
+      "text": "Carolyn",
+      "words": [
+        {
+          "word": "Carolyn",
+          "start": 16.46,
+          "end": 17.86
+        }
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.4,
+      "text": "Ikaw",
+      "words": [
+        {
+          "word": "Ikaw",
+          "start": 20.0,
+          "end": 21.4
+        }
+      ]
+    },
+    {
+      "start": 55.1,
+      "end": 66.32,
+      "text": "Ang amas lang ba ng bayingan ng dalaw",
+      "words": [
+        {
+          "word": "Ang",
+          "start": 55.1,
+          "end": 56.5
+        },
+        {
+          "word": "amas",
+          "start": 56.5,
+          "end": 57.9
+        },
+        {
+          "word": "lang",
+          "start": 57.9,
+          "end": 58.72
+        },
+        {
+          "word": "ba",
+          "start": 58.72,
+          "end": 59.64
+        },
+        {
+          "word": "ng",
+          "start": 59.64,
+          "end": 60.8
+        },
+        {
+          "word": "bayingan",
+          "start": 60.8,
+          "end": 63.26
+        },
+        {
+          "word": "ng",
+          "start": 63.26,
+          "end": 64.0
+        },
+        {
+          "word": "dalaw",
+          "start": 64.0,
+          "end": 66.32
+        }
+      ]
+    },
+    {
+      "start": 66.32,
+      "end": 76.78,
+      "text": "Poyasa, pirapirasong mga buktong",
+      "words": [
+        {
+          "word": "Poyasa,",
+          "start": 66.32,
+          "end": 68.98
+        },
+        {
+          "word": "pirapirasong",
+          "start": 70.32,
+          "end": 74.04
+        },
+        {
+          "word": "mga",
+          "start": 74.04,
+          "end": 76.08
+        },
+        {
+          "word": "buktong",
+          "start": 76.08,
+          "end": 76.78
+        }
+      ]
+    },
+    {
+      "start": 78.34,
+      "end": 80.26,
+      "text": "Nagtata no,oga",
+      "words": [
+        {
+          "word": "Nagtata",
+          "start": 78.34,
+          "end": 79.74
+        },
+        {
+          "word": "no",
+          "start": 79.74,
+          "end": 80.24
+        },
+        {
+          "word": ",ogaordinate",
+          "start": 80.24,
+          "end": 80.94
+        }
+      ]
+    },
+    {
+      "start": 85.22,
+      "end": 90.38,
+      "text": "ordinate kaki pa Baraka",
+      "words": [
+        {
+          "word": "kaki",
+          "start": 85.22,
+          "end": 86.62
+        },
+        {
+          "word": "pa",
+          "start": 86.62,
+          "end": 86.86
+        },
+        {
+          "word": "Baraka",
+          "start": 86.86,
+          "end": 88.6
+        },
+        {
+          "word": "Sa",
+          "start": 88.6,
+          "end": 90.38
+        }
+      ]
+    },
+    {
+      "start": 90.38,
+      "end": 97.62,
+      "text": "Sa ba naseaking na anyang ka",
+      "words": [
+        {
+          "word": "ba",
+          "start": 90.38,
+          "end": 90.94
+        },
+        {
+          "word": "naseaking",
+          "start": 90.94,
+          "end": 93.54
+        },
+        {
+          "word": "na",
+          "start": 93.54,
+          "end": 94.36
+        },
+        {
+          "word": "anyang",
+          "start": 94.36,
+          "end": 95.34
+        },
+        {
+          "word": "ka",
+          "start": 95.34,
+          "end": 95.68
+        },
+        {
+          "word": "paumanding",
+          "start": 95.68,
+          "end": 97.62
+        }
+      ]
+    },
+    {
+      "start": 100.14,
+      "end": 101.54,
+      "text": "paumanding",
+      "words": [
+        {
+          "word": "paumanding",
+          "start": 100.14,
+          "end": 101.54
+        }
+      ]
+    },
+    {
+      "start": 103.1,
+      "end": 106.62,
+      "text": "paumanding",
+      "words": [
+        {
+          "word": "sa",
+          "start": 103.1,
+          "end": 104.5
+        },
+        {
+          "word": "la",
+          "start": 104.5,
+          "end": 104.82
+        },
+        {
+          "word": "sa",
+          "start": 104.82,
+          "end": 105.62
+        },
+        {
+          "word": "kasane",
+          "start": 105.62,
+          "end": 106.62
+        }
+      ]
+    },
+    {
+      "start": 106.62,
+      "end": 106.76,
+      "text": "sa la sa kasane sakigan",
+      "words": [
+        {
+          "word": "sakigan",
+          "start": 106.62,
+          "end": 106.76
+        }
+      ]
+    },
+    {
+      "start": 106.78,
+      "end": 108.68,
+      "text": "Yang linawing",
+      "words": [
+        {
+          "word": "Yang",
+          "start": 106.78,
+          "end": 107.28
+        },
+        {
+          "word": "linawing",
+          "start": 107.28,
+          "end": 108.68
+        }
+      ]
+    },
+    {
+      "start": 111.98,
+      "end": 113.38,
+      "text": "Ging",
+      "words": [
+        {
+          "word": "Ging",
+          "start": 111.98,
+          "end": 113.38
+        }
+      ]
+    },
+    {
+      "start": 116.96,
+      "end": 119.9,
+      "text": "Kumpahintulutang mo ako",
+      "words": [
+        {
+          "word": "Kumpahintulutang",
+          "start": 116.96,
+          "end": 118.36
+        },
+        {
+          "word": "mo",
+          "start": 118.36,
+          "end": 118.68
+        },
+        {
+          "word": "ako",
+          "start": 118.68,
+          "end": 119.9
+        }
+      ]
+    },
+    {
+      "start": 124.58,
+      "end": 125.94,
+      "text": "Ay, pa",
+      "words": [
+        {
+          "word": "Ay,",
+          "start": 124.16,
+          "end": 124.86
+        },
+        {
+          "word": "pa",
+          "start": 125.32,
+          "end": 125.94
+        }
+      ]
+    },
+    {
+      "start": 128.48,
+      "end": 129.46,
+      "text": "Pa'kilala",
+      "words": [
+        {
+          "word": "Pa",
+          "start": 127.96,
+          "end": 128.66
+        },
+        {
+          "word": "'kilala",
+          "start": 128.66,
+          "end": 129.46
+        }
+      ]
+    },
+    {
+      "start": 130.48,
+      "end": 133.42,
+      "text": "Besanasayawang bubung mundo",
+      "words": [
+        {
+          "word": "Besanasayawang",
+          "start": 130.48,
+          "end": 132.12
+        },
+        {
+          "word": "bubung",
+          "start": 132.12,
+          "end": 132.74
+        },
+        {
+          "word": "mundo",
+          "start": 132.74,
+          "end": 133.42
+        }
+      ]
+    },
+    {
+      "start": 152.8,
+      "end": 154.2,
+      "text": "Bala",
+      "words": [
+        {
+          "word": "Bala",
+          "start": 152.8,
+          "end": 154.2
+        }
+      ]
+    },
+    {
+      "start": 154.2,
+      "end": 155.1,
+      "text": "At",
+      "words": [
+        {
+          "word": "At",
+          "start": 154.2,
+          "end": 155.1
+        }
+      ]
+    },
+    {
+      "start": 155.1,
+      "end": 155.88,
+      "text": "Za",
+      "words": [
+        {
+          "word": "Za",
+          "start": 155.1,
+          "end": 155.88
+        }
+      ]
+    },
+    {
+      "start": 155.88,
+      "end": 156.74,
+      "text": "Duck",
+      "words": [
+        {
+          "word": "Duck",
+          "start": 155.88,
+          "end": 156.74
+        }
+      ]
+    },
+    {
+      "start": 164.58,
+      "end": 165.98,
+      "text": "Over",
+      "words": [
+        {
+          "word": "Over",
+          "start": 164.58,
+          "end": 165.98
+        }
+      ]
+    },
+    {
+      "start": 165.98,
+      "end": 166.46,
+      "text": "Haw",
+      "words": [
+        {
+          "word": "Haw",
+          "start": 165.98,
+          "end": 166.46
+        }
+      ]
+    },
+    {
+      "start": 166.46,
+      "end": 166.46,
+      "text": "",
+      "words": []
+    },
+    {
+      "start": 166.46,
+      "end": 166.76,
+      "text": "Sara",
+      "words": [
+        {
+          "word": "Sara",
+          "start": 166.46,
+          "end": 166.76
+        }
+      ]
+    },
+    {
+      "start": 166.76,
+      "end": 166.76,
+      "text": "",
+      "words": []
+    },
+    {
+      "start": 166.76,
+      "end": 166.76,
+      "text": "",
+      "words": []
+    },
+    {
+      "start": 166.76,
+      "end": 166.76,
+      "text": "",
+      "words": []
+    },
+    {
+      "start": 166.76,
+      "end": 170.78,
+      "text": "Kenneth Valley ng ngatong nan",
+      "words": [
+        {
+          "word": "Kenneth",
+          "start": 166.76,
+          "end": 167.12
+        },
+        {
+          "word": "Valley",
+          "start": 167.12,
+          "end": 167.76
+        },
+        {
+          "word": "ng",
+          "start": 167.76,
+          "end": 169.48
+        },
+        {
+          "word": "ngatong",
+          "start": 169.48,
+          "end": 170.3
+        },
+        {
+          "word": "nan",
+          "start": 170.3,
+          "end": 170.78
+        }
+      ]
+    },
+    {
+      "start": 172.62,
+      "end": 181.94,
+      "text": "In bota natpun paano ang 없어",
+      "words": [
+        {
+          "word": "In",
+          "start": 172.62,
+          "end": 174.02
+        },
+        {
+          "word": "bota",
+          "start": 174.02,
+          "end": 174.56
+        },
+        {
+          "word": "natpun",
+          "start": 174.56,
+          "end": 176.7
+        },
+        {
+          "word": "paano",
+          "start": 176.7,
+          "end": 178.7
+        },
+        {
+          "word": "ang",
+          "start": 178.7,
+          "end": 179.66
+        },
+        {
+          "word": "없어",
+          "start": 179.66,
+          "end": 181.94
+        }
+      ]
+    },
+    {
+      "start": 193.26,
+      "end": 194.66,
+      "text": "Sa...",
+      "words": [
+        {
+          "word": "Sa...",
+          "start": 193.26,
+          "end": 194.66
+        }
+      ]
+    },
+    {
+      "start": 197.7,
+      "end": 199.1,
+      "text": "Ging...",
+      "words": [
+        {
+          "word": "Ging...",
+          "start": 197.7,
+          "end": 199.1
+        }
+      ]
+    },
+    {
+      "start": 199.94,
+      "end": 203.94,
+      "text": "Kumpahing tulutan mo ako...",
+      "words": [
+        {
+          "word": "Kumpahing",
+          "start": 199.94,
+          "end": 200.74
+        },
+        {
+          "word": "tulutan",
+          "start": 200.74,
+          "end": 201.7
+        },
+        {
+          "word": "mo",
+          "start": 201.7,
+          "end": 202.2
+        },
+        {
+          "word": "ako...",
+          "start": 202.2,
+          "end": 203.94
+        }
+      ]
+    },
+    {
+      "start": 207.34,
+      "end": 211.4,
+      "text": "Ang ang ang...",
+      "words": [
+        {
+          "word": "Ang",
+          "start": 207.34,
+          "end": 208.74
+        },
+        {
+          "word": "ang",
+          "start": 208.74,
+          "end": 209.32
+        },
+        {
+          "word": "ang...",
+          "start": 209.32,
+          "end": 211.4
+        }
+      ]
+    },
+    {
+      "start": 211.4,
+      "end": 212.86,
+      "text": "Ang ang ang...",
+      "words": [
+        {
+          "word": "Ang",
+          "start": 211.4,
+          "end": 212.16
+        },
+        {
+          "word": "ang",
+          "start": 212.16,
+          "end": 212.16
+        },
+        {
+          "word": "ang...",
+          "start": 212.16,
+          "end": 212.86
+        }
+      ]
+    },
+    {
+      "start": 212.86,
+      "end": 216.94,
+      "text": "Ang kinkangan ay iba pa malas ko sa'yo...",
+      "words": [
+        {
+          "word": "Ang",
+          "start": 212.86,
+          "end": 212.86
+        },
+        {
+          "word": "kinkangan",
+          "start": 212.86,
+          "end": 212.86
+        },
+        {
+          "word": "ay",
+          "start": 212.86,
+          "end": 214.1
+        },
+        {
+          "word": "iba",
+          "start": 214.1,
+          "end": 214.6
+        },
+        {
+          "word": "pa",
+          "start": 214.6,
+          "end": 214.92
+        },
+        {
+          "word": "malas",
+          "start": 214.92,
+          "end": 215.72
+        },
+        {
+          "word": "ko",
+          "start": 215.72,
+          "end": 216.06
+        },
+        {
+          "word": "sa",
+          "start": 216.06,
+          "end": 216.44
+        },
+        {
+          "word": "'yo...",
+          "start": 216.44,
+          "end": 217.14
+        }
+      ]
+    },
+    {
+      "start": 253.28,
+      "end": 254.68,
+      "text": "Ging...",
+      "words": [
+        {
+          "word": "Ging...",
+          "start": 253.28,
+          "end": 254.68
+        }
+      ]
+    },
+    {
+      "start": 254.68,
+      "end": 255.06,
+      "text": "Ging...",
+      "words": [
+        {
+          "word": "Ging...",
+          "start": 254.68,
+          "end": 255.06
+        }
+      ]
+    },
+    {
+      "start": 255.94,
+      "end": 259.86,
+      "text": "Pinaki kiyos akko sa'yo...",
+      "words": [
+        {
+          "word": "Pinaki",
+          "start": 255.6,
+          "end": 256.3
+        },
+        {
+          "word": "kiyos",
+          "start": 256.3,
+          "end": 257.2
+        },
+        {
+          "word": "akko",
+          "start": 257.2,
+          "end": 257.84
+        },
+        {
+          "word": "sa",
+          "start": 257.84,
+          "end": 258.18
+        },
+        {
+          "word": "'yo...",
+          "start": 258.18,
+          "end": 259.86
+        }
+      ]
+    },
+    {
+      "start": 267.02,
+      "end": 268.06,
+      "text": "Sa...",
+      "words": [
+        {
+          "word": "Sa...",
+          "start": 267.02,
+          "end": 268.06
+        }
+      ]
+    },
+    {
+      "start": 269.24,
+      "end": 274.2,
+      "text": "Bakai ng atan ang ibu suku...",
+      "words": [
+        {
+          "word": "Bakai",
+          "start": 269.24,
+          "end": 270.28
+        },
+        {
+          "word": "ng",
+          "start": 270.28,
+          "end": 270.78
+        },
+        {
+          "word": "atan",
+          "start": 270.78,
+          "end": 271.3
+        },
+        {
+          "word": "ang",
+          "start": 271.3,
+          "end": 271.56
+        },
+        {
+          "word": "ibu",
+          "start": 271.56,
+          "end": 271.96
+        },
+        {
+          "word": "suku...",
+          "start": 271.96,
+          "end": 274.2
+        }
+      ]
+    }
+  ]
+}
